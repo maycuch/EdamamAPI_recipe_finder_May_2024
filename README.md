@@ -7,12 +7,14 @@
 ### How to use this 
 - you need to have [Python](https://www.python.org/downloads/) software installed
 - you also need an editor where you can write and/or run the code, eg. [PyCharm](https://www.jetbrains.com/pycharm/download/?section=windows)
-- in order to run a code you will need to go to [Edamam](https://www.edamam.com/):
+- in order to run a code you will need to go register and create an account on [Edamam](https://www.edamam.com/). These are steps:
   - go to main page header menu and click on `Products`
   -  and within a drop down menu you click on `Recipe Search API`.
   -  It should show you a table where you click inside the column 'Developer' on `Get started`. Now you will need to sign up using your email address.
   -  Once registered and logged in, click on `Accounts` in top right header and then click on `Go to dashboard` \ `Applications` and then finally within a box 'Recipe Search API' click on `View`.
-  -  Here you can find your Application ID and Application Keys which you should copy and paste into config file
+  -  Here you can find your Application ID and Application Keys which you should copy and paste into `main.py` into rows 6 and 7 inbtween `''`:
+    <img width="589" alt="image" src="https://github.com/user-attachments/assets/025ccfd5-32e7-4b2e-a231-6eda0591df2d">
+
     
 ### How to run a python code
 - before you run the code you need to install following modules:
