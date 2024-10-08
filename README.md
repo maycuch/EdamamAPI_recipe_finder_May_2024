@@ -12,8 +12,9 @@
   -  and within a drop down menu you click on `Recipe Search API`.
   -  It should show you a table where you click inside the column 'Developer' on `Get started`. Now you will need to sign up using your email address.
   -  Once registered and logged in, click on `Accounts` in top right header and then click on `Go to dashboard` \ `Applications` and then finally within a box 'Recipe Search API' click on `View`.
-  -  Here you can find your Application ID and Application Keys which you should copy and paste into `main.py` into rows 6 and 7 inbtween `''`:
-    <img width="589" alt="image" src="https://github.com/user-attachments/assets/025ccfd5-32e7-4b2e-a231-6eda0591df2d">
+  -  Here you can find your ***Application ID*** and ***Application Keys*** which you should copy and paste into `main.py` into rows 6 and 7 inbtween `''`:
+    <img width="589" alt="image" src="https://github.com/user-attachments/assets/354abc5c-1f8e-4077-b220-36519e650453">
+
 
     
 ### How to run a python code
