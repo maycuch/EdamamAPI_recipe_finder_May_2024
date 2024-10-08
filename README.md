@@ -1,4 +1,4 @@
-# Edamam_recipe_finder
+# Edamam recipe finder
 
 ### What does this project do
 - this is python code that extracts recipes from Edamam API
